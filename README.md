@@ -8,7 +8,7 @@ This is a personal portfolio website built using HTML, CSS , and  Javascript.
 -Contact section
 
 ## Purpose:
-Cpdsoft web development internship project.
+Codsoft web development internship project.
 
 ## Author:
 Mallika Bathina
